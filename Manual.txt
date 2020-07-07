@@ -1,0 +1,10 @@
+this chatbot will respond to these key words:
+
+(Hi, Hello, Hey) will trigger 3 different responses choosen randomly
+
+(how are you) will trigger 3 different responses choosen randomly
+
+(what's up, what's going on) will trigger 3 different responses choosen randomly
+
+(Tell me a joke) will trigger 6 different responses choosen randomly which
+ I hope you will enjoy
